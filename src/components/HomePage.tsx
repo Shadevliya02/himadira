@@ -52,7 +52,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
       <section className="relative h-[600px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-[#0B2D6C] to-[#4A90E2]">
           <ImageWithFallback 
-            src="https://himadira.orgs.telkomuniversity.ac.id/wp-content/uploads/sites/138/2021/08/danau-tekno-telkom-university-1.jpg"
+            src="src/assets/dummy.jpg"
             alt="Hero Background"
             className="w-full h-full object-cover opacity-30"
           />
